@@ -1,1 +1,3 @@
 Hello, World!
+
+This is a test for using VS Code as the Git commit message editor!
